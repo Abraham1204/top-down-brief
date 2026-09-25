@@ -41,7 +41,7 @@ Every piece follows the same shape: state the main point first, support it with 
 In Claude Code:
 
 ```
-/plugin marketplace add Abraham1204/top-down-brief
+/plugin marketplace add the-abraham-brand/top-down-brief
 /plugin install top-down-brief@top-down-brief
 ```
 
