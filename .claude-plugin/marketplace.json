@@ -1,0 +1,18 @@
+{
+  "name": "top-down-brief",
+  "owner": {
+    "name": "Abraham Sarath",
+    "url": "https://theabrahambrand.com"
+  },
+  "metadata": {
+    "description": "Top-Down Brief by Abraham Sarath: answer-first, professionally toned official communications for Claude."
+  },
+  "plugins": [
+    {
+      "name": "top-down-brief",
+      "source": "./",
+      "description": "Answer-first structure and professional tone for official emails, memos, letters, reports and updates.",
+      "version": "1.0.0"
+    }
+  ]
+}
