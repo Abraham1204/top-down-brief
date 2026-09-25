@@ -1,0 +1,13 @@
+{
+  "name": "top-down-brief",
+  "version": "1.0.0",
+  "description": "Top-Down Brief by Abraham Sarath: makes outgoing official communications answer-first, well structured and professional in tone. Drafts new emails, memos, letters and reports, and reviews existing drafts before they are sent.",
+  "author": {
+    "name": "Abraham Sarath",
+    "url": "https://theabrahambrand.com"
+  },
+  "homepage": "https://github.com/Abraham1204/top-down-brief",
+  "repository": "https://github.com/Abraham1204/top-down-brief",
+  "license": "MIT",
+  "keywords": ["top-down-brief", "communication", "email", "memo", "business-writing", "executive-summary", "tone", "review"]
+}
