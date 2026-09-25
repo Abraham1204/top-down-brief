@@ -1,6 +1,6 @@
 # Top-Down Brief
 
-**By [Abraham]**
+**By [Abraham](https://theabrahambrand.com)**
 
 A Claude plugin that makes sure outgoing official communications lead with the answer, group their supporting points logically, and read in a consistent professional tone.
 
