@@ -1,6 +1,6 @@
 # Top-Down Brief
 
-**By [Abraham Sarath](https://theabrahambrand.com)**
+**By [Abraham]**
 
 A Claude plugin that makes sure outgoing official communications lead with the answer, group their supporting points logically, and read in a consistent professional tone.
 
@@ -73,8 +73,8 @@ skills/
 
 ## Credits
 
-Top-Down Brief is designed and maintained by Abraham Sarath ([theabrahambrand.com](https://theabrahambrand.com)). Its structure applies the Pyramid Principle described by Barbara Minto in *The Pyramid Principle: Logic in Writing and Thinking*. This is an independent project, not affiliated with or endorsed by Barbara Minto or Minto International.
+Top-Down Brief is designed and maintained by Abraham ([theabrahambrand.com](https://theabrahambrand.com)). Its structure applies the Pyramid Principle described by Barbara Minto in *The Pyramid Principle: Logic in Writing and Thinking*. This is an independent project, not affiliated with or endorsed by Barbara Minto or Minto International.
 
 ## License
 
-MIT © 2026 Abraham Sarath
+MIT © 2026 Abraham
