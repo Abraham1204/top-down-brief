@@ -71,6 +71,14 @@ skills/
   review/SKILL.md          /top-down-brief:review
 ```
 
+## Works well with
+
+All by [Abraham](https://theabrahambrand.com), and made to work together:
+
+- [My Business Brain](https://github.com/the-abraham-brand/my-business-brain) keeps what your business knows in one place, with sources, in English and Arabic, so your drafts start from facts you can trust.
+- [Top-Down Verify](https://github.com/the-abraham-brand/top-down-verify) fact-checks a document before it goes out.
+- [Top-Down Startup Pitch Deck](https://github.com/the-abraham-brand/top-down-startup-pitch-deck) builds a research-backed investor deck.
+
 ## Credits
 
 Top-Down Brief is designed and maintained by Abraham ([theabrahambrand.com](https://theabrahambrand.com)). Its structure applies the Pyramid Principle described by Barbara Minto in *The Pyramid Principle: Logic in Writing and Thinking*. This is an independent project, not affiliated with or endorsed by Barbara Minto or Minto International.
